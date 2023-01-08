@@ -26,4 +26,4 @@ fs.readFile('score.txt', 'utf8', function (err, dataStr) {
 })
 
 
-console.log('hello javascript');
+//console.log('hello javascript');
